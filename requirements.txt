@@ -1,0 +1,6 @@
+imbalanced-learn
+nltk
+openpyxl
+pandas
+sklearn
+streamlit
